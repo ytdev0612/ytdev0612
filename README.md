@@ -2,7 +2,8 @@
 
 SKILLS I am Learning
 
-![Static Badge](https://img.shields.io/badge/instagram-pink?logo=instagram)
+![Static Badge](https://img.shields.io/badge/python-blue?logo=python&logoColor=white)
+
 
 Github stats
 
